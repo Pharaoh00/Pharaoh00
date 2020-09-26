@@ -1,6 +1,4 @@
-<h2> Hi there. My name is Hamon-Rá Taveira <img src="https://media.giphy.com/media/R7fGU27uLZZcs/giphy.gif" width="100"></h2>
-
-# My name is Hamon-Rá Taveira
+<h2> Hi there. My name is Hamon-Rá Taveira <img src="https://media.giphy.com/media/VFB3cJJne7b5m/giphy.gif" width="100"></h2>
 
 
 <!--
