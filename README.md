@@ -1,4 +1,7 @@
-### Hi there 👋
+<h2> Hi there. My name is Hamon-Rá Taveira <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+# My name is Hamon-Rá Taveira
+
 
 <!--
 **Pharaoh00/Pharaoh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
