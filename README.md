@@ -7,9 +7,9 @@
 - Software Engineering.
 	- I love tinkering and messing around.  
 - Love hardware, currently I have:
-		 - Altera Cyclone IV FPGA
-		 - Raspberry Pi 4
-		 - Arduino
+	- Altera Cyclone IV FPGA
+	- Raspberry Pi 4
+	- Arduino
 - I'm attempting to learn cybersecurity at:
 	 - ![Hackme](https://tryhackme.com/)
 	 - ![Hackthebox](https://www.hackthebox.eu/)
