@@ -22,7 +22,7 @@
 ```
 
 <h2>Programming Languages I know</h2>
-<img width="50px" src="https://img1.gratispng.com/20180320/fsw/kisspng-angle-text-symbol-brand-other-python-5ab0c09b0e3083.2363551015215330830581.jpg">|<img width="50px" src="https://logodownload.org/wp-content/uploads/2017/04/java-logo-4.png">|<img width="50px" src="https://img.icons8.com/color/452/c-programming.png">|
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
 |--|--|--|
 <!--
 **Pharaoh00/Pharaoh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
