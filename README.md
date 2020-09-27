@@ -1,5 +1,7 @@
-<h1> Hi there. My name is Hamon-Rá Taveira <img src="https://media.giphy.com/media/VFB3cJJne7b5m/giphy.gif" width="100"></h1>
-
+<div align="center">
+  <h1>Hi there. My name is Hamon-Rá Taveira <img src="https://media.giphy.com/media/VFB3cJJne7b5m/giphy.gif" width="100"></h1>
+  <h3>I’m a college student, currently studying Computer Engineer at PUC Minas.</h3>
+</div>
 
 <!--
 **Pharaoh00/Pharaoh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
