@@ -41,21 +41,9 @@
 
 <h2>Things I may or may not know :wink: :smiley: :flushed:</h2>
 ```python
-things = {
-    "Data Structure": "Yeah. Two semester learning about... And learning more. Nice thing to know.",
-    "FPGA": "I know a little bit",
-    "Mobile Dev": "Maybe? Little but. I don't have enough experience.",
-    "Big Data": "Just reading stuff.",
-    "Artificial Intelligence": "Riding too... ",
-    "Cryptography": "I had a class about this! Nice!",
-    "Electronics": "I know a thing or two.",
-    "Windows (Not Window)": "My main machine is a Windows machine... So.",
-    "Linux": "I know enough to figure out stuff.",
-    "Latex": "Not enough, but i have some skills.",
-    "Tools i know or use": ("Internet haha", "Visual Studio", "Git", 
-                            "PyCharm", "IntelliJ", "Clion",
-                            "Illustrator", "After Effects", "InDesign", "Premiere", 
-                            "Node.js", "Django",
-                            "PuTTY", "Audacity")
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
 }
 ```
