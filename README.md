@@ -1,4 +1,4 @@
-<div align="center">  <h1>Hi there. My name is Hamon-Rá Taveira!!! <img src="https://media.giphy.com/media/VFB3cJJne7b5m/giphy.gif" width="100"></h1>  <h3>I’m a college student, currently studying Computer Engineer at PUC Minas. <img src="https://minionupucmg.files.wordpress.com/2017/03/logo-puc.jpg" width="50"></h3> </div>  
+<div align="center">  <h1>Hi there. My name is Hamon-Rá Taveira!!! <img src="https://media.giphy.com/media/VFB3cJJne7b5m/giphy.gif" width="100"></h1>  <h3>I’m a college student, currently studying Computer Engineering at PUC Minas. <img src="https://minionupucmg.files.wordpress.com/2017/03/logo-puc.jpg" width="50"></h3> </div>  
 
 <h4> I have many interests and I know a little bit of everything. </h4> 
 
@@ -32,17 +32,10 @@
 	<img src="https://img.shields.io/static/v1?label=HTML&message=Advanced&color=success&logo=HTML5&style=for-the-badge" alt="HTML" style="margin:4px">
 	<img src="https://img.shields.io/static/v1?label=CSS&message=Advanced&color=success&logo=CSS3&style=for-the-badge" alt="CSS" style="margin:4px">
 </div>
-<!--
-**Pharaoh00/Pharaoh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Languages I know</h2>
+<div align="center">
+	<img src="https://img.shields.io/static/v1?label=Português%20Brasil&message=Advanced&color=success&style=for-the-badge" alt="portugues" style="margin:4px">
+	<img src="https://img.shields.io/static/v1?label=English&message=Average&color=blue&style=for-the-badge" alt="ingles" style="margin:4px">
+	<img src="https://img.shields.io/static/v1?label=Português%20Brasil&message=Advanced&color=blue&style=for-the-badge" alt="CSS" style="margin:4px">
+	<img src="https://img.shields.io/static/v1?label=Mandarin&message=Basic&color=orange&style=for-the-badge" alt="CSS" style="margin:4px">
+</div>
