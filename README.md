@@ -55,7 +55,7 @@ things = {
     "Latex": "Not enough, but I have some skills.",
     "Tools I know or use": ("Internet haha", "Visual Studio", "Git", 
                             "PyCharm", "IntelliJ", "Clion",
-                            "Illustrator", "After Effects", "InDesign", "Premiere", 
+                            "Photoshop", "Illustrator","After Effects", "InDesign", "Premiere", 
                             "Node.js", "Django",
                             "PuTTY", "Audacity")
 }
