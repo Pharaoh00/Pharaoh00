@@ -24,7 +24,6 @@
 <h2>Programming Languages I know</h2>
 <img width="50px" src="https://img1.gratispng.com/20180320/fsw/kisspng-angle-text-symbol-brand-other-python-5ab0c09b0e3083.2363551015215330830581.jpg">|<img width="50px" src="https://logodownload.org/wp-content/uploads/2017/04/java-logo-4.png">|<img width="50px" src="https://img.icons8.com/color/452/c-programming.png">|<img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png">|<img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">|<img width="50px" src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png">|<img width="50px" src="https://e7.pngegg.com/pngimages/239/228/png-clipart-html-css3-cascading-style-sheets-logo-markup-language-digital-agency-miscellaneous-blue.png">|<img width="50px" src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png">
 |--|--|--|--|--|--|--|
-|Advanced|Average|Average|Average|Average|Advanced|Advanced|Advanced
 
 <!--
 **Pharaoh00/Pharaoh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
