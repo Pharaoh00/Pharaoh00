@@ -34,8 +34,7 @@
 </div>
 <h2>Languages I know</h2>
 <div align="center">
-	<img src="https://img.shields.io/static/v1?label=Português%20Brasil&message=Advanced&color=success&style=for-the-badge" alt="portugues" style="margin:4px">
+	<img src="https://img.shields.io/static/v1?label=Portugu%26%23234%3Bs%20Brasil&message=Advanced&color=success&style=for-the-badge" alt="portugues" style="margin:4px">
 	<img src="https://img.shields.io/static/v1?label=English&message=Average&color=blue&style=for-the-badge" alt="ingles" style="margin:4px">
-	<img src="https://img.shields.io/static/v1?label=Português%20Brasil&message=Advanced&color=blue&style=for-the-badge" alt="CSS" style="margin:4px">
 	<img src="https://img.shields.io/static/v1?label=Mandarin&message=Basic&color=orange&style=for-the-badge" alt="CSS" style="margin:4px">
 </div>
