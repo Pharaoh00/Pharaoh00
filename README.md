@@ -2,9 +2,9 @@
 
 ```
  - I consider myself a Indie: 
-	 - web dev 
-	 - game dev
-	 -  software dev
+ 	- Software dev
+	- Web dev 
+	- Game dev
 ```
 
 <h4> I have many interests and I know a little bit of everything. </h4> 
