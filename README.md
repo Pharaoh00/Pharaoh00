@@ -1,4 +1,4 @@
-<div align="center">  <h1>Hi there. My name is Hamon-Rá Taveira!!! <img src="https://media.giphy.com/media/VFB3cJJne7b5m/giphy.gif" width="100"></h1>  <h3>I’m a college student, currently studying Computer Engineering at PUC Minas. <img src="https://minionupucmg.files.wordpress.com/2017/03/logo-puc.jpg" width="50" align="bottom"></h3> </div>  
+<div align="center">  <h1>Hi there. My name is Hamon-Rá Taveira!!! <img src="https://media.giphy.com/media/VFB3cJJne7b5m/giphy.gif" width="100"></h1>  <h3>I’m a college student, currently studying Computer Engineering at PUC Minas. <img src="https://minionupucmg.files.wordpress.com/2017/03/logo-puc.jpg" width="50" vlign="bottom"></h3> </div>  
 
 <h4> I have many interests and I know a little bit of everything. </h4> 
 
