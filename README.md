@@ -22,8 +22,16 @@
 ```
 
 <h2>Programming Languages I know</h2>
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|--|
+<div align="center">
+	<img src="https://img.shields.io/static/v1?label=Python&message=Advanced&color=blue&logo=Python&style=for-the-badge" alt="Python" style="margin:4px">
+	<img src="https://img.shields.io/static/v1?label=Java&message=Average&color=blue&logo=Java&style=for-the-badge" alt="Java" style="margin:4px">
+	<img src="https://img.shields.io/static/v1?label=C&message=Average&color=blue&logo=C&style=for-the-badge" alt="C" style="margin:4px">
+	<img src="https://img.shields.io/badge/C++-Average-blue.svg?style=for-the-badge&logo=c%2B%2B" alt="C++" style="margin:4px">
+	<img src="https://img.shields.io/static/v1?label=C%23&message=Basic&color=blue&logo=C%20Sharp&style=for-the-badge" alt="C#" style="margin:4px">
+	<img src="https://img.shields.io/static/v1?label=JavaScript&message=Average&color=blue&logo=JavaScript&style=for-the-badge" alt="JavaScript" style="margin:4px">
+	<img src="https://img.shields.io/static/v1?label=HTML&message=Advanced&color=blue&logo=HTML5&style=for-the-badge" alt="HTML" style="margin:4px">
+	<img src="https://img.shields.io/static/v1?label=CSS&message=Advanced&color=blue&logo=CSS3&style=for-the-badge" alt="CSS" style="margin:4px">
+</div>
 <!--
 **Pharaoh00/Pharaoh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
