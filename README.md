@@ -48,7 +48,7 @@ things = {
     "FPGA": "I know a little bit",
     "Mobile Dev": "Maybe? Little bit. I don't have enough experience.",
     "Big Data": "Just reading stuff.",
-    "Artificial Intelligence": "Riding too... ",
+    "Artificial Intelligence": "Reading too... ",
     "Cryptography": "I had a class about this! Nice!",
     "Electronics": "I know a thing or two.",
     "Windows (Not Window)": "My main machine is a Windows machine... So.",
